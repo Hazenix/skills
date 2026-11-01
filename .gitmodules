@@ -1,20 +1,20 @@
 [submodule "code-like-me"]
 	path = code-like-me
-	url = https://github.com/Hazehacker/code-like-me.git
+	url = https://github.com/Hazenix/code-like-me.git
 	branch = codex/publish-skill
 [submodule "backend-interview-simulator"]
 	path = backend-interview-simulator
-	url = https://github.com/Hazehacker/backend-interview-simulator.git
+	url = https://github.com/Hazenix/backend-interview-simulator.git
 	branch = main
 [submodule "ai-dev-interview-simulator"]
 	path = ai-dev-interview-simulator
-	url = https://github.com/Hazehacker/ai-dev-interview-simulator.git
+	url = https://github.com/Hazenix/ai-dev-interview-simulator.git
 	branch = main
 [submodule "init-new-computer"]
 	path = init-new-computer
-	url = https://github.com/Hazehacker/init-new-computer.git
+	url = https://github.com/Hazenix/init-new-computer.git
 	branch = main
 [submodule "superpowers-bzh"]
 	path = superpowers-bzh
-	url = https://github.com/Hazehacker/superpowers-bzh.git
+	url = https://github.com/Hazenix/superpowers-bzh.git
 	branch = main

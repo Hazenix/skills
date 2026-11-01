@@ -8,16 +8,16 @@
 
 | 仓库 | 用途 | Skill 入口 |
 | --- | --- | --- |
-| [backend-interview-simulator](https://github.com/Hazehacker/backend-interview-simulator) | Java / Go / C++ 后端模拟面试，支持不同求职阶段、面试官风格、简历与 JD、追问和评估反馈 | [SKILL.md](https://github.com/Hazehacker/backend-interview-simulator/blob/main/SKILL.md) |
-| [ai-dev-interview-simulator](https://github.com/Hazehacker/ai-dev-interview-simulator) | AI 应用开发模拟面试，覆盖 LLM、Agent、RAG、MCP 等方向 | [SKILL.md](https://github.com/Hazehacker/ai-dev-interview-simulator/blob/main/SKILL.md) |
-| [code-like-me](https://github.com/Hazehacker/code-like-me) | 将我的编码习惯、架构取舍和 Review 经验沉淀为可复用的判断方法 | [SKILL.md](https://github.com/Hazehacker/code-like-me/blob/codex/publish-skill/SKILL.md) |
-| [init-new-computer](https://github.com/Hazehacker/init-new-computer) | 初始化新 Mac：环境盘点、配置备份、开发工具安装、个人设置迁移和运行验证 | [skills/init-new-computer/SKILL.md](https://github.com/Hazehacker/init-new-computer/blob/main/skills/init-new-computer/SKILL.md) |
+| [backend-interview-simulator](https://github.com/Hazenix/backend-interview-simulator) | Java / Go / C++ 后端模拟面试，支持不同求职阶段、面试官风格、简历与 JD、追问和评估反馈 | [SKILL.md](https://github.com/Hazenix/backend-interview-simulator/blob/main/SKILL.md) |
+| [ai-dev-interview-simulator](https://github.com/Hazenix/ai-dev-interview-simulator) | AI 应用开发模拟面试，覆盖 LLM、Agent、RAG、MCP 等方向 | [SKILL.md](https://github.com/Hazenix/ai-dev-interview-simulator/blob/main/SKILL.md) |
+| [code-like-me](https://github.com/Hazenix/code-like-me) | 将我的编码习惯、架构取舍和 Review 经验沉淀为可复用的判断方法 | [SKILL.md](https://github.com/Hazenix/code-like-me/blob/codex/publish-skill/SKILL.md) |
+| [init-new-computer](https://github.com/Hazenix/init-new-computer) | 初始化新 Mac：环境盘点、配置备份、开发工具安装、个人设置迁移和运行验证 | [skills/init-new-computer/SKILL.md](https://github.com/Hazenix/init-new-computer/blob/main/skills/init-new-computer/SKILL.md) |
 
 ## Fork 的技能集合
 
 | 仓库 | 用途 | 上游 |
 | --- | --- | --- |
-| [superpowers-bzh](https://github.com/Hazehacker/superpowers-bzh) | 覆盖需求梳理、计划、开发、调试、代码审查和验证的技能集合，具体技能位于 `skills/` | [obra/superpowers](https://github.com/obra/superpowers) |
+| [superpowers-bzh](https://github.com/Hazenix/superpowers-bzh) | 覆盖需求梳理、计划、开发、调试、代码审查和验证的技能集合，具体技能位于 `skills/` | [obra/superpowers](https://github.com/obra/superpowers) |
 
 ## 怎么用
 
@@ -26,7 +26,7 @@
 需要把所有仓库一起下载到本地：
 
 ```bash
-git clone --recurse-submodules https://github.com/Hazehacker/skills.git
+git clone --recurse-submodules https://github.com/Hazenix/skills.git
 cd skills
 ```
 
